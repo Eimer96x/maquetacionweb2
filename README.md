@@ -69,12 +69,9 @@ maquetaciontwo/
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles
 
-## 📫 Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en el repositorio.
 
 ## ✒️ Autor
 
-**Eimer Menco** - *Desarrollador* - [GitHub](https://github.com/Eimer96x)
+**Eimer Menco** - *Estudiante de Desarrollado* - [GitHub](https://github.com/Eimer96x)
 
 [Repositorio del proyecto](https://github.com/Eimer96x/maquetacionweb2)
